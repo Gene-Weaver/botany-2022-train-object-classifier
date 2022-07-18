@@ -26,4 +26,4 @@ If you want to modify this code for your own dataset or train it locally, please
 Download these files:
 https://www.dropbox.com/s/s4rgapj4x0zimcs/data.zip?dl=0
 Unzip in arrange files:
-![This is an image](https://flic.kr/p/2nyRxcg)
+![File Structure]([https://flic.kr/p/2nyRxcg](https://imgur.com/a/9EfVsxB))
