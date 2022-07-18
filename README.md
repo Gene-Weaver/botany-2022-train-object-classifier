@@ -24,7 +24,7 @@ In the Evaluate Model section, we can choose a trained ML model and see how well
 If you want to modify this code for your own dataset or train it locally, please go to Will Weaver’s GitHub page and clone the “Botany Workshop 2022 - Ruler Classifier” repo. There are instructions on setting up a python virtual environment, installing PyTorch, and running the code.
 
 Download these files:
-[![Dropbox](https://i.imgur.com/9mxc2kF.png)](https://www.dropbox.com/s/s4rgapj4x0zimcs/data.zip?dl=0)
+[![Dropbox](https://i.imgur.com/qOWdH6r.jpg)](https://www.dropbox.com/s/s4rgapj4x0zimcs/data.zip?dl=0)
 
 Unzip in arrange files:
 
